@@ -4,7 +4,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://mysub.cc/subscribe/19199/hgi46elOHd/clash2/"
+
     type: http
     interval: 86400
     health-check:
